@@ -1,0 +1,56 @@
+:root {
+    --light-blue: #59a5d8;
+    --main-blue: #2c5aa0;
+    --tan: #a9927d;
+    --grey: #e3dbdb;
+    --black: #0a0908;
+    --google-font: 'Quicksand', sans-serif;
+}
+
+*{
+    margin: 0;
+}
+
+body{
+    background: var(--main-blue);
+    font-family: var(--google-font);
+}
+
+#graph-div{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+
+}
+
+#graph{
+    background: var(--light-blue);
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+#svg{
+
+}
+
+.bar:hover{
+    fill: var(--tan)
+}
+
+#title{
+    text-align: center;
+    color: var(--black)
+}
+
+#return-header {
+    height: 50px;
+    background: var(--tan);
+}
+
+#return-image {
+    width: 75px;
+    height: 50px;
+}

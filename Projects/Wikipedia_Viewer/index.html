@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Wikipedia Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="main.js"></script>
+</head>
+
+<body id="body">
+    <div class="container-fluid">
+        <div class="row">
+            <div id="titleDiv" class="col-xs-12">
+                <h1 id="title">Wikipedia Viewer</h1>
+            </div>
+        </div>
+        <div class="row" id="randomRow">
+            <div id="random">
+                <a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank">Do you want a random Wiki article? - Click here!</a>
+            </div>
+        </div>
+        <div class="row" id="searchRow">
+            <div id="search">
+                <!--<form id="inputForm" autocomplete="off">-->
+                <input type="search" id="searchInput" placeholder="Type your wiki search here!"><button id="clearButton">X</button>
+                <!--</form>-->
+            </div>
+        </div>
+
+        <div class="row" id="builtByRow">
+            <div class="col-xs-12" id="builtBy">
+                Built By: Jacob Hughes
+            </div>
+        </div>
+        <div class="row" id="resultRow" class="resultRow">
+
+        </div>
+
+    </div>
+</body>
+
+</html>

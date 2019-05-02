@@ -1,0 +1,69 @@
+h1 {
+    font-family: 'Skranji', cursive;
+    text-align: center;
+    color: #0a0908;
+}
+
+h3 {
+    font-family: 'Skranji', cursive;
+    text-align: center;
+    color: #0a0908;
+}
+
+body {
+    background: #59a5d8;
+}
+
+h4 {
+    color: black;
+    text-align: center;
+}
+
+.odd {
+    color: #2c5aa0;
+    font-family: 'Skranji', cursive;
+}
+
+.even {
+    color: #d3c1c3;
+    font-family: 'Skranji', cursive;
+}
+
+#banner {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.quote {
+    color: #e3dbdb;
+    font-family: 'Skranji', cursive;
+
+}
+
+#footer-text {
+    color: #2c5aa0;
+    font-family: 'Skranji', cursive;
+}
+
+.information {
+    font-family: 'Skranji', cursive;
+    color: #e3dbdb;
+}
+
+a.information {
+    color: #d3c1c3;
+    text-decoration: underline
+}
+
+#return-header {
+    height: 50px;
+}
+
+#return-image {
+    width: 75px;
+    height: 50px;
+}

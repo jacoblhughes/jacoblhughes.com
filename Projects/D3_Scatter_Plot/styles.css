@@ -1,0 +1,57 @@
+:root {
+    --light-blue: #59a5d8;
+    --main-blue: #2c5aa0;
+    --tan: #a9927d;
+    --grey: #e3dbdb;
+    --black: #0a0908;
+    --google-font: 'Quicksand', sans-serif;
+}
+
+*{
+    margin: 0;
+}
+
+body{
+    background: grey;
+    font-family: 'Noto Serif JP', sans-serif;
+
+}
+
+#graph-div{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#graph{
+    background: white;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle:hover{
+    fill: red;
+}
+
+#title{
+    text-align: center;
+}
+
+#return-header {
+    height: 50px;
+    background: var(--tan);
+}
+
+#return-image {
+    width: 75px;
+    height: 50px;
+}
+
+.dot{
+    opacity: 0.9;
+}

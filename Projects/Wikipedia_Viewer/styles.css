@@ -1,0 +1,63 @@
+:root {
+    --fresh: #4ABDAC;
+}
+
+#title {
+    text-align: center;
+    font-size: 60px;
+    color: black;
+}
+
+#titleDiv {
+    margin-bottom: 30px;
+}
+
+#body {
+    background-color: aliceblue;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/220px-Wikipedia_Logo_1.0.png");
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-position: left;
+    background-size: 480px 480px;
+}
+
+#builtBy {
+    text-align: center;
+}
+
+#random {
+    text-align: center;
+}
+
+#search{
+    text-align: center
+}
+#searchRow{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px
+}
+
+#randomRow{
+    font-size: 25px;
+}
+
+#searchInput{
+    width:260px;
+    text-align: center
+}
+
+.resultDiv{
+    border: 1px solid black;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    background: white;
+}
+
+body a:hover{
+color:red;    
+}
+
+#builtByRow{
+    padding-bottom: 10px;
+}

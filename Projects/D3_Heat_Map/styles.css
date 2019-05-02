@@ -1,0 +1,61 @@
+:root {
+    --light-blue: #59a5d8;
+    --main-blue: #2c5aa0;
+    --tan: #a9927d;
+    --grey: #e3dbdb;
+    --black: #0a0908;
+    --google-font: 'Quicksand', sans-serif;
+}
+
+*{
+    margin: 0;
+}
+
+body{
+    background: var(--main-blue);
+    font-family: var(--google-font);
+}
+#graph-div{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#graph{
+    background: var(--grey);
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+
+.y-axis{
+    font-size: 10px
+}
+
+.bar:hover{
+    fill: gold;
+
+}
+
+#title{
+    text-align: center;
+}
+
+#return-header {
+    height: 50px;
+    background: var(--tan);
+}
+
+#return-image {
+    width: 75px;
+    height: 50px;
+}
+
+.legend_squares{
+    border: 1px solid black;
+}
