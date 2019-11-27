@@ -1,0 +1,985 @@
+:root {
+  --white: #ffffff;
+  --main-blue: #003366;
+  --tan: #cccc99;
+  --grey: #cccccc;
+  --black: #0a0908;
+  --google-font: "Lora", serif;
+}
+
+body {
+  background-color: var(--white);
+  font-family: var(--google-font);
+  height: 100%;
+
+  .container-fluid {
+    display: grid;
+    grid-template-rows: minmax(min-content, 10%) 1fr minmax(min-content, 10%);
+    grid-template-columns: 1fr 3fr;
+    height: auto;
+  }
+
+  #header {
+    background-color: var(--tan);
+    grid-column: 1/3;
+    grid-row: 1/2;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 9fr;
+    a {
+      background-color: var(--main-blue);
+      grid-column: 1/2;
+      grid-row: 1;
+      text-align: center;
+      text-decoration: none;
+      height: 100%;
+      color: var(--white);
+      :hover {
+        color: var(--white);
+      }
+    }
+  }
+
+  #links_div {
+    padding-top: 5%;
+    display: grid;
+    grid-template-rows: repeat(8, 1fr);
+    height: 100%;
+    text-align: center;
+    font-size: 1.5vw;
+    grid-column: 1/2;
+    grid-row: 2/3;
+    border-right: 1px solid black;
+    background-color: var(--grey);
+
+    a {
+      color: var(--black);
+      text-decoration: none;
+    }
+
+    #links_links {
+    }
+
+    #blank_div {
+    }
+  }
+
+  .index {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    text-align: center;
+
+    .frame{
+      height: 100%;
+      width: 100%;
+    }
+  }
+
+  #bottomRow {
+    background-color: var(--tan);
+    grid-column: 1/3;
+    grid-row: 3/4;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  .internal_links {
+    margin-top: 10px;
+    a {
+      color: var(--black);
+      text-decoration: none;
+      font-size: 2vw;
+    }
+  }
+
+  #dropdownMenuButton {
+    background-color: var(--main-blue);
+    color: var(--white);
+  }
+}
+
+#main_inc_container {
+  display: grid;
+  grid-template-rows: 1fr 5fr 4fr;
+  grid-template-columns: 1fr;
+}
+
+#Drum_Machine {
+  #app {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  #whole-thing {
+    display: grid;
+    width: 80%;
+    height: 80%;
+    grid-template-rows: 50px repeat(10, 1fr);
+    grid-template-columns: 80% 20%;
+  }
+
+  #title-head {
+    grid-row: 1/2;
+    grid-column: 1/3;
+    text-align: center;
+  }
+
+  #drum-machine {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 20px;
+    grid-template-rows: repeat(3, 150px);
+    grid-row-gap: 20px;
+    grid-row: 2/12;
+    border: 1px solid black;
+  }
+
+  .drum-pad {
+    border: 1px solid black;
+  }
+
+  button {
+    border-radius: 20px;
+    background-color: var(--grey);
+  }
+
+  #display {
+    grid-row: 3/4;
+    grid-column: 2/3;
+    text-align: center;
+    font-size: 25px;
+  }
+}
+
+#Markdown_Preview {
+  #grid-one {
+    display: grid;
+    justify-items: center;
+    grid-template-rows: 10fr 10fr;
+    grid-row-gap: 20px;
+  }
+
+  #editor {
+    width: 100%;
+    grid-row: 1;
+  }
+
+  #preview {
+    border: 1px solid black;
+    width: 100%;
+    grid-row: 2;
+  }
+}
+
+#Technical_Documentation_Page {
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 1fr;
+  }
+
+  #navbar {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  #nav-title {
+    border-bottom: 1px solid #0a0908;
+    text-align: center;
+  }
+
+  .nav-div {
+    border-bottom: 1px solid #0a0908;
+    a {
+      color: #0a0908;
+      :hover {
+        color: #2c5aa0;
+      }
+    }
+  }
+  .nav-link {
+    text-decoration: none;
+  }
+
+  #main-doc {
+    border-left: 1px solid #0a0908;
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  #example-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 50px);
+    grid-template-rows: repeat(3, 50px);
+  }
+
+  .example-div {
+    background: #d3c1c3;
+    border: 1px solid #0a0908;
+    text-align: center;
+    line-height: 50px;
+  }
+
+  .spacer {
+    padding-top: 10px;
+  }
+
+  h1 {
+    margin-left: 10px;
+  }
+
+  p {
+    margin-left: 30px;
+  }
+
+  code {
+    margin-left: 40px;
+  }
+
+  #example-grid {
+    margin-left: 30px;
+  }
+}
+
+#Landing_Page {
+  #email {
+    width: 300px;
+  }
+
+  #submit {
+    width: 200px;
+    background-color: #0a0908;
+    border: none;
+    color: var(--white);
+  }
+
+  #video {
+    width: 426px;
+    height: 240px;
+  }
+
+  #header {
+    width: 100%;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 1fr 500px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: var(--white);
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    a {
+      background-color: var(--black);
+    }
+  }
+
+  #spacer {
+    width: 1300px;
+  }
+
+  #nav-link-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  #nav-link-list a {
+    color: var(--white);
+    font-size: 25px;
+    text-decoration: none;
+  }
+
+  #nav-link-list a:hover {
+    color: var(--white);
+  }
+
+  #nav-bar ul li {
+    list-style-type: none;
+  }
+
+  .form-grid {
+    display: grid;
+    grid-template-rows: 25px 25px;
+    grid-row-gap: 10px;
+    justify-items: center;
+  }
+
+  #title {
+    margin-top: 25px;
+    text-align: center;
+
+    font-size: 50px;
+    margin-top: 80px;
+  }
+  #second-title {
+    text-align: center;
+    font-size: 20px;
+  }
+
+  #One {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 100px 400px;
+    grid-template-rows: repeat(3, 100px);
+    grid-column-gap: 60px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .paragraph-pic {
+    width: 100px;
+    height: 100px;
+  }
+
+  .sub-title {
+    font-size: 2.5vw;
+  }
+
+  .description {
+    font-size: 1.5vw;
+  }
+
+  #Two {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+  }
+
+  .heading {
+    text-align: center;
+  }
+
+  .listDiv {
+    border: 1px solid #0a0908;
+    padding: 10px 10px 70px 10px;
+  }
+
+  .list {
+    list-style-type: circle;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .list li {
+    padding-top: 10px;
+  }
+
+  #list1 {
+    grid-column: 2/3;
+  }
+
+  #list2 {
+    grid-column: 4/5;
+  }
+
+  #list3 {
+    grid-column: 6/7;
+  }
+
+  @media (min-width: 980px) {
+    #Three {
+      margin-top: 50px;
+      display: grid;
+      grid-template-columns: 2% 200px 2% 200px 2% 200px 2%;
+      grid-auto-flow: column;
+      justify-content: center;
+      padding-bottom: 30px;
+      color: #0a0908;
+      font-family: "Roboto Condensed", sans-serif;
+    }
+  }
+
+  @media (max-width: 980px) {
+    #Three {
+      margin-top: 50px;
+      display: grid;
+      grid-template-columns: 10px 200px 10px 200px 10px 200px 10px;
+      grid-auto-flow: column;
+      justify-content: center;
+      padding-bottom: 30px;
+      color: #0a0908;
+      font-family: "Roboto Condensed", sans-serif;
+    }
+  }
+}
+
+#Suvey_Form {
+  @media (max-width: 481px) {
+    * {
+      margin: 0px;
+      padding: 0px;
+    }
+
+    body {
+      background-color: #2c5aa0;
+    }
+    h1 {
+      color: #0a0908;
+      text-align: center;
+      font-family: "Playfair Display", serif;
+    }
+    h2 {
+      color: #e3dbdb;
+      font-family: "Playfair Display", serif;
+      text-align: center;
+    }
+    form {
+      margin-left: 100px;
+      color: #0a0908;
+      font-family: "Playfair Display", serif;
+      display: grid;
+    }
+    textarea,
+    input {
+      font-family: "Playfair Display", serif;
+    }
+    #submit {
+      background-color: #a9927d;
+      font-family: "Playfair Display", serif;
+      border: none;
+      padding: 5px;
+    }
+
+    .container {
+      grid-template-columns: 1fr;
+      grid-template-rows: repeat(7, 28px) 120px 28px;
+    }
+
+    .fieldSet {
+      border: 0;
+    }
+  }
+
+  @media (min-width: 481px) {
+    * {
+      margin: 0px;
+      padding: 0px;
+    }
+
+    body {
+      background-color: #2c5aa0;
+    }
+    h1 {
+      color: #0a0908;
+      text-align: center;
+      font-family: "Playfair Display", serif;
+    }
+    h2 {
+      color: #e3dbdb;
+      font-family: "Playfair Display", serif;
+      text-align: center;
+    }
+    form {
+      margin-left: 100px;
+      color: #0a0908;
+      font-family: "Playfair Display", serif;
+      display: grid;
+    }
+    textarea,
+    input {
+      font-family: "Playfair Display", serif;
+    }
+    #submit {
+      background-color: #a9927d;
+      font-family: "Playfair Display", serif;
+      border: none;
+      padding: 5px;
+    }
+
+    .container {
+      grid-template-columns: 1fr;
+      grid-template-rows: repeat(7, 28px) 120px 28px;
+    }
+
+    .fieldSet {
+      border: 0;
+    }
+  }
+
+  #return-header {
+    height: 50px;
+    background: #a9927d;
+  }
+
+  #return-image {
+    width: 75px;
+    height: 50px;
+  }
+}
+
+#Tic_Tac_Toe_Game {
+  h1,
+  h5 {
+    text-align: center;
+    color: var(--main-blue);
+  }
+
+  button {
+    background-color: var(--grey);
+  }
+
+  .container {
+    display: grid;
+    grid-template-rows: 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .ticTacs {
+    border: 5px solid var(--grey);
+  }
+
+  .ticTacs p {
+    font-size: 30px;
+    text-align: center;
+    vertical-align: middle;
+    color: var(--main-blue);
+  }
+
+  .btnContainer {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-column-gap: 100px;
+  }
+
+  #btnX,
+  #btn1,
+  #playerIs {
+    grid-column: 3/5;
+  }
+
+  #btnO,
+  #btn2,
+  #computerIs {
+    grid-column: 6/8;
+  }
+
+  .selected {
+    text-align: center;
+    margin: 0;
+    margin-bottom: 3px;
+    color: var(--black);
+  }
+
+  .score {
+    font-family: "Skranji", cursive;
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-template-rows: 40px, 40px;
+    text-align: center;
+    color: var(--black);
+    text-align: center;
+    vertical-align: center;
+  }
+
+  #playerP {
+    grid-row: 1;
+    grid-column: 3/5;
+  }
+
+  #playerSpan {
+    grid-row: 1;
+    grid-column: 6/7;
+  }
+
+  #computerP {
+    grid-row: 2;
+    grid-column: 3/5;
+  }
+
+  #computerSpan {
+    grid-row: 2;
+    grid-column: 6/7;
+  }
+
+  .btnContainer2 {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-column-gap: 100px;
+  }
+
+  #newGame {
+    grid-column: 3/5;
+  }
+
+  #reset {
+    grid-column: 6/8;
+  }
+}
+
+#Simon_Says_Game {
+  body {
+    background-color: #515a47;
+  }
+
+  h1 {
+    color: #d7be82;
+    text-align: center;
+    font-family: "Inconsolata", monospace;
+    font-size: 80px;
+  }
+
+  button {
+    font-family: "Inconsolata", monospace;
+    text-align: center;
+    background: #7a4419;
+    border: none;
+    color: #400406;
+    font-size: 20px;
+  }
+
+  #buttonDiv {
+    display: grid;
+    grid-template-columns: repeat(3, 80px);
+    grid-template-rows: 50px;
+    grid-column-gap: 10px;
+    justify-content: center;
+  }
+
+  #strict {
+    margin: 0 auto;
+    margin-top: 12px;
+    background: #d7be82;
+    border-radius: 20px;
+    height: 25px;
+    width: 25px;
+  }
+
+  #strictText {
+    margin-top: -10px;
+    text-align: center;
+    font-family: "Inconsolata", monospace;
+  }
+
+  .container {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(2, 130px);
+    grid-template-rows: repeat(2, 130px);
+    justify-content: center;
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+  }
+
+  .pressed {
+    border-style: inset;
+  }
+
+  #winDiv {
+    display: grid;
+    grid-template-columns: 50px;
+    grid-template-rows: 90px 56px;
+    justify-content: center;
+  }
+
+  #winRounds {
+    padding-top: 2px;
+    font-family: "Inconsolata", monospace;
+    color: #400406;
+    background: #7a4419;
+    border: 5px solid #755c1b;
+    text-align: center;
+    font-size: 25px;
+  }
+
+  #winStatement {
+    color: #d7be82;
+    font-family: "Inconsolata", monospace;
+    text-align: center;
+    font-size: 25px;
+  }
+}
+
+#Pomodoro_Timer {
+  body {
+    background-color: #c0c0c0;
+  }
+
+  h1 {
+    font-family: "Montserrat", sans-serif;
+    color: #3a6ea5;
+    text-align: center;
+    font-size: 80px;
+  }
+
+  button {
+    font-family: "Montserrat", sans-serif;
+    color: #004e98;
+  }
+
+  #buttonDiv {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: 30px 20px;
+    justify-content: center;
+    grid-column-gap: 20px;
+  }
+  #work {
+    grid-column: 2/3;
+    font-family: "Montserrat", sans-serif;
+    font-size: 10px;
+    text-align: center;
+  }
+  #break {
+    grid-column: 3/4;
+    font-family: "Montserrat", sans-serif;
+    font-size: 10px;
+    text-align: center;
+  }
+
+  #container {
+    display: grid;
+    margin-top: 40px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 150px);
+  }
+
+  #tomato {
+    background-color: #ff6700;
+    border-radius: 150px;
+    text-align: center;
+    text-justify: auto;
+    grid-column: 2/3;
+    grid-row: 1/4;
+  }
+
+  #tomatoP {
+    font-family: "Montserrat", sans-serif;
+    color: #ebebeb;
+    margin-top: 175px;
+    font-size: 75px;
+  }
+
+  #winStatement {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    color: #ebebeb;
+    font-size: 30px;
+  }
+}
+
+#Twitch_JSON_API {
+  .on {
+    background: var(--tan);
+  }
+
+  .off {
+    background: var(--grey);
+  }
+
+  .stream img {
+    width: 75px;
+  }
+
+  .stream {
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+  div img {
+    border: 5px solid navy;
+    border-radius: 10px;
+  }
+}
+
+#Wikipedia_Viewer {
+  #container {
+    display: grid;
+    grid-template-rows: 1fr 1fr 12fr;
+    grid-template-columns: 1fr;
+  }
+  #random {
+    text-align: center;
+  }
+
+  #search {
+    text-align: center;
+  }
+  #searchRow {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+  }
+
+  #randomRow {
+    font-size: 25px;
+  }
+
+  #searchInput {
+    width: 260px;
+    text-align: center;
+  }
+
+  .resultDiv {
+    border: 1px solid black;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+  }
+
+  body a:hover {
+    color: red;
+  }
+}
+
+#Local_Weather {
+  #container {
+    grid-template-rows: repeat(1fr, 5);
+    grid-template-columns: 1fr;
+  }
+
+  #location {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  #latlong {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  #temperature {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  #weatherDescription {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  #weatherImage {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  #builtBy {
+    color: var(--fresh);
+    font-size: 20px;
+  }
+
+  .quote {
+    font-size: 25px;
+  }
+
+  .row {
+    width: auto;
+  }
+
+  #tempButton {
+    background: var(--fresh);
+    font-size: 15px;
+  }
+}
+
+#Random_Quote_Machine {
+  #container {
+    display: grid;
+    grid-template-rows: 10% 10%;
+
+    grid-template-columns: 1fr;
+  }
+
+  #twitterLogo {
+    width: 30px;
+    height: auto;
+  }
+
+  #links {
+    margin-bottom: 10px;
+  }
+
+  #getQuote {
+    margin: auto;
+    display: block;
+  }
+  .quote {
+    font-family: monospace;
+    font-size: 25px;
+  }
+
+  #getQuote {
+    border: 5px solid skyblue;
+    border-radius: 10px;
+    font-size: 15px;
+  }
+  #tweetButton {
+    border: 5px solid red;
+    border-radius: 10px;
+  }
+}
+
+#Guess_The_Difference {
+  .smile {
+    position: relative;
+    height: 30px;
+    width: 30px;
+  }
+
+  #container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 10fr;
+  }
+
+  #instruction {
+    grid-column: 1/3;
+    grid-row: 1/2;
+    width: 100%;
+  }
+
+  #leftSide {
+    grid-column: 1/2;
+    grid-row: 2/3;
+    text-align: left;
+  }
+
+  #rightSide {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    border-left: 1px solid black;
+    text-align: left;
+  }
+}
+
+#Tribute_Page {
+  h4 {
+    text-align: center;
+  }
+
+  .odd {
+    color: var(--main-blue);
+  }
+
+  .even {
+    color: var(--black);
+  }
+
+  #banner {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  a.information {
+    text-decoration: underline;
+  }
+}
+
+#Recipe_Site, #Online_Store, #D3_Bar_Chart, #D3_Choropleth, #D3_Heat_Map, #D3_Scatter_Plot, #D3_Treemap{ 
+
+  iframe{
+    width: 100%;
+
+    height: 94%;
+
+  }
+}
