@@ -1,12 +1,9 @@
-<!--
-array('./Projects/D3_Heat_Map/index.html', 'D3 Heat Map'),
-array('./Projects/D3_Scatter_Plot/index.html', 'D3 Scatter Plot'),
-array('./Projects/D3_Bar_Chart/index.html', 'D3 Bar Chart')
--->
+<!-- // array('index.php?content=codingProjects&project=D3_Treemap&project_type=frame', 'D3 Treemap'),
+// array('index.php?content=codingProjects&project=D3_Choropleth&project_type=frame', 'D3 Choropleth'), -->
 <?php
     $projects = array(
-        // array('index.php?content=codingProjects&project=D3_Treemap&project_type=frame', 'D3 Treemap'),
-        // array('index.php?content=codingProjects&project=D3_Choropleth&project_type=frame', 'D3 Choropleth'),
+
+        array('index.php?content=codingProjects&project=D3_Choropleth&project_type=frame', 'D3 Choropleth'),
         array('index.php?content=codingProjects&project=D3_Heat_Map&project_type=frame', 'D3 Heat Map'),
         array('index.php?content=codingProjects&project=D3_Scatter_Plot&project_type=frame', 'D3 Scatter Plot'),
         array('index.php?content=codingProjects&project=D3_Bar_Chart&project_type=frame', 'D3 Bar Chart'),

@@ -1,0 +1,453 @@
+[28-Sep-2019 17:35:48 America/New_York] PHP Warning:  scandir(/path/to/directory/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:35:48 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:35:48 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:35:48 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:35:52 America/New_York] PHP Warning:  scandir(/path/to/directory/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:35:52 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:35:52 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:35:52 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:36:22 America/New_York] PHP Warning:  scandir(/path/to/directory/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:36:22 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:36:22 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:36:23 America/New_York] PHP Warning:  scandir(/path/to/directory/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:36:23 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:36:23 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:36:28 America/New_York] PHP Warning:  scandir(/path/to/directory/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:36:28 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:36:28 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:22 America/New_York] PHP Warning:  scandir(../certs): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:22 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:22 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:25 America/New_York] PHP Warning:  scandir(../certs): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:25 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:25 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:26 America/New_York] PHP Warning:  scandir(../certs): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:26 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:26 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:28 America/New_York] PHP Warning:  scandir(../certs): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:28 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:28 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:48 America/New_York] PHP Warning:  scandir(../certs): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:48 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:48 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:51 America/New_York] PHP Warning:  scandir(../certs): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:51 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:37:51 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:38:29 America/New_York] PHP Warning:  scandir(../certs): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:38:29 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:38:29 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:38:29 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:38:39 America/New_York] PHP Warning:  scandir(../certs): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:38:39 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:38:39 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:38:39 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:39:40 America/New_York] PHP Warning:  scandir(./../certs): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:39:40 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:39:40 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:39:40 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:40:10 America/New_York] PHP Warning:  scandir(./../certs): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:40:10 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:40:10 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:40:10 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:40:12 America/New_York] PHP Warning:  scandir(./../certs): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:40:12 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:40:12 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:40:12 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:40:32 America/New_York] PHP Warning:  scandir(./../certs): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:40:32 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:40:32 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:40:32 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 16
+[28-Sep-2019 17:41:09 America/New_York] PHP Warning:  scandir(./../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:41:09 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:41:09 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:41:09 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 16
+[28-Sep-2019 17:41:46 America/New_York] PHP Warning:  scandir(./../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:41:46 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:41:46 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:41:46 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 16
+[28-Sep-2019 17:42:35 America/New_York] PHP Parse error:  syntax error, unexpected 'C' (T_STRING) in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 21
+[28-Sep-2019 17:42:45 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:42:45 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:42:45 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:42:45 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 16
+[28-Sep-2019 17:45:11 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:11 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:11 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:11 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 16
+[28-Sep-2019 17:45:23 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:23 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:23 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:23 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 16
+[28-Sep-2019 17:45:39 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:39 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:39 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:39 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 16
+[28-Sep-2019 17:45:49 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:49 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:49 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:49 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:45:52 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:52 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:52 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:45:52 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:46:24 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:46:24 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:46:24 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:46:24 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:47:27 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:47:27 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:47:27 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:47:27 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:47:30 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:47:30 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:47:30 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:47:30 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:47:38 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:47:38 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:47:38 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:47:38 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:47:45 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:47:45 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:47:45 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:47:45 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:48:06 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:48:06 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:48:06 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:48:06 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:48:07 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:48:07 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:48:07 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:48:07 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:49:25 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:49:25 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:49:25 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:49:25 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:49:28 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:49:28 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:49:28 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 11
+[28-Sep-2019 17:49:28 America/New_York] PHP Notice:  Undefined variable: log_directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 15
+[28-Sep-2019 17:55:52 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[28-Sep-2019 17:55:52 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[28-Sep-2019 17:55:52 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[28-Sep-2019 20:16:32 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[28-Sep-2019 20:58:19 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[28-Sep-2019 20:58:19 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[28-Sep-2019 20:58:19 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[28-Sep-2019 21:01:43 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[28-Sep-2019 21:01:43 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[28-Sep-2019 21:01:43 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[28-Sep-2019 21:03:39 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[28-Sep-2019 21:03:39 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[28-Sep-2019 21:03:39 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[28-Sep-2019 21:08:46 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[28-Sep-2019 21:42:52 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[28-Sep-2019 22:19:10 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[28-Sep-2019 22:25:46 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[28-Sep-2019 22:51:37 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[28-Sep-2019 23:01:31 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[28-Sep-2019 23:41:07 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[28-Sep-2019 23:53:46 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[29-Sep-2019 00:10:16 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[29-Sep-2019 00:10:53 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[29-Sep-2019 00:42:43 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[29-Sep-2019 01:10:46 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[29-Sep-2019 01:22:52 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[29-Sep-2019 01:32:46 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[29-Sep-2019 01:33:52 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[29-Sep-2019 02:20:21 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[29-Sep-2019 03:43:20 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[29-Sep-2019 03:43:20 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[29-Sep-2019 03:43:20 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[29-Sep-2019 12:38:48 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[29-Sep-2019 16:29:06 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[29-Sep-2019 18:13:36 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[29-Sep-2019 18:13:36 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[29-Sep-2019 18:13:36 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[29-Sep-2019 22:50:11 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[29-Sep-2019 23:28:14 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[30-Sep-2019 06:47:24 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[30-Sep-2019 07:38:28 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[30-Sep-2019 10:44:18 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[30-Sep-2019 10:44:18 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[30-Sep-2019 11:38:25 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[30-Sep-2019 14:01:37 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[30-Sep-2019 17:42:53 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[30-Sep-2019 17:42:53 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[30-Sep-2019 17:42:53 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[30-Sep-2019 18:22:26 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[30-Sep-2019 21:22:32 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[30-Sep-2019 23:45:36 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 01:20:27 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 09:42:42 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 12:03:00 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 13:37:35 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 15:10:54 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 16:47:46 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 17:34:00 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 18:00:46 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 18:42:30 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 21:15:30 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 21:34:53 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 22:18:30 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 22:51:29 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[01-Oct-2019 23:55:20 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 03:30:39 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 06:23:44 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 07:11:44 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 07:22:09 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 08:43:45 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 10:07:10 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 11:16:57 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 11:52:30 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 11:52:46 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[02-Oct-2019 11:52:46 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[02-Oct-2019 13:45:16 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 13:48:57 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 14:32:26 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 14:33:04 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Oct-2019 14:41:50 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[03-Oct-2019 00:47:17 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[03-Oct-2019 00:47:17 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[03-Oct-2019 00:47:17 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[03-Oct-2019 03:00:13 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[03-Oct-2019 05:05:33 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[03-Oct-2019 05:05:33 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[03-Oct-2019 05:05:33 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[03-Oct-2019 08:44:47 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[03-Oct-2019 08:44:47 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[05-Oct-2019 00:25:30 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[06-Oct-2019 08:06:20 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[06-Oct-2019 08:06:20 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[06-Oct-2019 22:52:38 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[06-Oct-2019 22:52:38 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[07-Oct-2019 02:18:49 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[07-Oct-2019 02:18:49 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[07-Oct-2019 03:15:44 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[07-Oct-2019 07:24:05 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[07-Oct-2019 07:24:05 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[07-Oct-2019 09:37:08 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[07-Oct-2019 09:37:08 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[07-Oct-2019 09:37:08 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[07-Oct-2019 22:10:44 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[07-Oct-2019 23:16:35 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[07-Oct-2019 23:48:43 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 00:15:41 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 03:15:12 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 04:23:24 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[08-Oct-2019 04:23:24 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[08-Oct-2019 04:23:24 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[08-Oct-2019 05:19:17 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 08:25:15 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 08:25:18 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 08:33:59 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 08:38:36 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 12:05:35 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 15:56:38 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 16:59:13 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 19:00:10 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 21:16:56 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[08-Oct-2019 21:33:13 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[09-Oct-2019 02:31:32 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[09-Oct-2019 02:31:32 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[09-Oct-2019 02:31:32 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[09-Oct-2019 02:36:52 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[09-Oct-2019 02:36:52 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[09-Oct-2019 02:36:52 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[09-Oct-2019 10:47:27 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[09-Oct-2019 10:47:27 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[09-Oct-2019 10:47:27 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[09-Oct-2019 13:44:36 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[09-Oct-2019 13:44:36 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[09-Oct-2019 15:15:17 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[11-Oct-2019 06:27:12 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[11-Oct-2019 15:26:37 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[11-Oct-2019 15:26:37 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[11-Oct-2019 15:26:37 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[13-Oct-2019 02:32:39 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[13-Oct-2019 02:32:39 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[13-Oct-2019 02:32:39 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Oct-2019 03:55:58 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[14-Oct-2019 04:32:12 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Oct-2019 04:32:12 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Oct-2019 04:32:12 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Oct-2019 04:32:14 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Oct-2019 04:32:14 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Oct-2019 04:32:14 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Oct-2019 04:32:17 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Oct-2019 04:32:17 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Oct-2019 04:32:17 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Oct-2019 18:05:09 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Oct-2019 18:05:09 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Oct-2019 18:05:09 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[15-Oct-2019 11:39:39 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[15-Oct-2019 11:39:39 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[15-Oct-2019 22:13:18 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[15-Oct-2019 22:13:18 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[15-Oct-2019 22:13:18 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[16-Oct-2019 04:08:16 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[16-Oct-2019 04:08:16 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[16-Oct-2019 05:07:13 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[16-Oct-2019 05:07:13 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[17-Oct-2019 10:36:30 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[17-Oct-2019 10:36:30 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[17-Oct-2019 10:36:30 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[18-Oct-2019 04:31:00 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[18-Oct-2019 04:31:00 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[18-Oct-2019 14:12:19 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[18-Oct-2019 14:12:19 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[18-Oct-2019 14:12:19 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[20-Oct-2019 11:56:00 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[21-Oct-2019 23:24:31 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[21-Oct-2019 23:24:31 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[22-Oct-2019 11:59:24 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[22-Oct-2019 11:59:24 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[22-Oct-2019 11:59:24 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[23-Oct-2019 13:59:00 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[25-Oct-2019 06:17:31 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[25-Oct-2019 06:17:31 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[25-Oct-2019 13:42:50 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[25-Oct-2019 13:42:50 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[25-Oct-2019 23:26:54 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[25-Oct-2019 23:26:54 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[25-Oct-2019 23:26:54 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[27-Oct-2019 04:54:40 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[27-Oct-2019 04:54:40 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[27-Oct-2019 04:54:40 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[27-Oct-2019 04:54:49 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[27-Oct-2019 04:54:49 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[27-Oct-2019 04:54:49 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[27-Oct-2019 21:47:10 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[27-Oct-2019 21:47:10 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[27-Oct-2019 21:47:10 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[31-Oct-2019 13:49:32 America/New_York] PHP Warning:  include(./includes/codingprojects.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[31-Oct-2019 13:49:32 America/New_York] PHP Warning:  include(): Failed opening './includes/codingprojects.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[31-Oct-2019 13:49:33 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[31-Oct-2019 13:49:33 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[31-Oct-2019 13:49:33 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[01-Nov-2019 00:25:17 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[02-Nov-2019 06:28:22 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[02-Nov-2019 06:28:22 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[03-Nov-2019 05:44:59 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[03-Nov-2019 05:44:59 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[03-Nov-2019 05:44:59 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[03-Nov-2019 20:19:33 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[03-Nov-2019 20:19:33 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[03-Nov-2019 20:19:33 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[04-Nov-2019 22:55:25 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[06-Nov-2019 05:00:20 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[06-Nov-2019 08:05:36 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[06-Nov-2019 08:05:36 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[06-Nov-2019 08:05:36 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[06-Nov-2019 11:57:05 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[06-Nov-2019 20:55:31 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[07-Nov-2019 01:21:32 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[07-Nov-2019 01:21:32 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[07-Nov-2019 01:21:32 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[07-Nov-2019 02:21:57 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[07-Nov-2019 02:21:57 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[07-Nov-2019 02:21:57 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[07-Nov-2019 14:09:17 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[07-Nov-2019 19:24:44 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[07-Nov-2019 19:24:44 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[09-Nov-2019 11:15:58 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[09-Nov-2019 11:15:58 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[09-Nov-2019 11:15:58 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[10-Nov-2019 11:34:24 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[10-Nov-2019 18:06:16 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[12-Nov-2019 02:03:28 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[12-Nov-2019 06:30:23 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[12-Nov-2019 17:13:05 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[13-Nov-2019 05:50:59 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[13-Nov-2019 05:50:59 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[13-Nov-2019 15:23:54 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[13-Nov-2019 16:26:56 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[13-Nov-2019 18:51:34 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[13-Nov-2019 18:51:34 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[13-Nov-2019 18:51:34 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Nov-2019 14:06:33 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[14-Nov-2019 17:20:16 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[14-Nov-2019 17:22:12 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[14-Nov-2019 19:23:11 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Nov-2019 19:23:11 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[14-Nov-2019 19:23:11 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[15-Nov-2019 05:54:41 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[15-Nov-2019 05:54:41 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[15-Nov-2019 09:52:51 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[15-Nov-2019 10:43:29 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[15-Nov-2019 13:56:35 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[15-Nov-2019 13:56:35 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[15-Nov-2019 13:56:35 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[15-Nov-2019 18:14:40 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[15-Nov-2019 22:00:35 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[15-Nov-2019 23:31:39 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[16-Nov-2019 01:30:14 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[16-Nov-2019 01:30:14 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[16-Nov-2019 03:55:19 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[16-Nov-2019 11:42:31 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[16-Nov-2019 11:42:31 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[16-Nov-2019 11:42:31 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[16-Nov-2019 12:55:57 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[16-Nov-2019 17:20:41 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[16-Nov-2019 18:28:55 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[17-Nov-2019 05:23:06 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[17-Nov-2019 06:09:47 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[17-Nov-2019 06:45:42 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[17-Nov-2019 06:45:42 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[17-Nov-2019 06:45:42 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[17-Nov-2019 18:20:08 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[18-Nov-2019 20:56:08 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[18-Nov-2019 20:56:08 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[18-Nov-2019 22:27:33 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[18-Nov-2019 22:27:33 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[18-Nov-2019 22:27:33 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[19-Nov-2019 14:02:58 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[20-Nov-2019 03:07:58 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[20-Nov-2019 09:39:32 America/New_York] PHP Warning:  include(./includes/professional.inc.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[20-Nov-2019 09:39:32 America/New_York] PHP Warning:  include(): Failed opening './includes/professional.inc.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/index.php on line 33
+[20-Nov-2019 14:57:04 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[20-Nov-2019 14:57:04 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[20-Nov-2019 14:57:04 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[20-Nov-2019 17:07:55 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[20-Nov-2019 17:07:55 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[20-Nov-2019 17:07:55 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[20-Nov-2019 20:14:15 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[20-Nov-2019 20:14:15 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[20-Nov-2019 20:14:15 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[22-Nov-2019 01:04:39 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[22-Nov-2019 06:19:30 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[22-Nov-2019 17:44:30 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[22-Nov-2019 17:44:30 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[22-Nov-2019 17:44:30 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[23-Nov-2019 16:01:52 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[23-Nov-2019 16:01:52 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[23-Nov-2019 16:01:52 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[24-Nov-2019 08:39:19 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[24-Nov-2019 08:39:19 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[24-Nov-2019 08:39:19 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[24-Nov-2019 08:45:12 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[24-Nov-2019 08:45:12 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[24-Nov-2019 08:45:12 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[25-Nov-2019 16:32:54 America/New_York] PHP Notice:  Undefined index: project_type in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 6
+[26-Nov-2019 00:12:00 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 00:12:00 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 00:12:00 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 00:17:01 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 00:17:01 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 00:17:01 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 00:17:05 America/New_York] PHP Warning:  include(./Projects/D3_Bar_Chart/index.php): failed to open stream: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 13
+[26-Nov-2019 00:17:05 America/New_York] PHP Warning:  include(): Failed opening './Projects/D3_Bar_Chart/index.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/evidetqy/jacoblhughes.com/includes/codingProjects.inc.php on line 13
+[26-Nov-2019 11:28:48 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 11:28:48 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 11:28:48 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 11:34:02 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 11:34:02 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 11:34:02 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 19:04:11 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 19:04:11 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 19:04:11 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 19:04:13 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 19:04:13 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 19:04:13 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 19:04:16 America/New_York] PHP Warning:  scandir(../../certs/): failed to open dir: No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 19:04:16 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17
+[26-Nov-2019 19:04:16 America/New_York] PHP Warning:  array_slice() expects parameter 1 to be array, bool given in /home/evidetqy/jacoblhughes.com/includes/credentials.inc.php on line 17

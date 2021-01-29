@@ -81,6 +81,10 @@ body #links_div a {
   text-decoration: none;
 }
 
+body #links_div #links_links .link_sub {
+  font-size: 0.75vw;
+}
+
 body .index {
   -ms-grid-column: 2;
   -ms-grid-column-span: 1;
@@ -126,8 +130,8 @@ body #dropdownMenuButton {
 #main_inc_container {
   display: -ms-grid;
   display: grid;
-  -ms-grid-rows: 1fr 5fr 4fr;
-      grid-template-rows: 1fr 5fr 4fr;
+  -ms-grid-rows: 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr;
   -ms-grid-columns: 1fr;
       grid-template-columns: 1fr;
 }
@@ -1146,7 +1150,13 @@ body #dropdownMenuButton {
   text-decoration: underline;
 }
 
-#Recipe_Site iframe, #Online_Store iframe, #D3_Bar_Chart iframe, #D3_Choropleth iframe, #D3_Heat_Map iframe, #D3_Scatter_Plot iframe, #D3_Treemap iframe {
+#Recipe_Site iframe,
+#Online_Store iframe,
+#D3_Bar_Chart iframe,
+#D3_Choropleth iframe,
+#D3_Heat_Map iframe,
+#D3_Scatter_Plot iframe,
+#D3_Treemap iframe {
   width: 100%;
   height: 94%;
 }
